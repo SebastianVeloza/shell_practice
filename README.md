@@ -4,7 +4,7 @@ Este repositorio contiene varios scripts diseñados para realizar tareas especí
 
 ---
 
-## 1. Listado de ficheros mayores a 1024 bytes (Bash)
+## 1. Listado de ficheros mayores a 1024 bytes (PowerShell)
 ### Descripción
 Este script muestra un listado de los archivos en el directorio actual que ocupen más de 1024 bytes.
 
@@ -13,7 +13,7 @@ Ayuda a identificar rápidamente archivos grandes en el directorio actual, útil
 
 ---
 
-## 2. Renombrar archivos JPG con prefijo de fecha (Bash)
+## 2. Renombrar archivos JPG con prefijo de fecha (PowerShell)
 ### Descripción
 Este script renombra todos los archivos con extensión `.jpg` en el directorio actual, añadiendo un prefijo con la fecha actual en formato **año-mes-día**.
 
@@ -36,7 +36,7 @@ El script ayuda a detectar discos duros casi llenos, permitiendo tomar acciones 
 
 ---
 
-## 4. Menú de utilidades (Bash o PowerShell)
+## 4. Menú de utilidades (PowerShell)
 ### Descripción
 Este script presenta un menú interactivo con las siguientes opciones, ejecutando la acción asociada al número ingresado por el usuario:
 1. Listar los servicios activos.
